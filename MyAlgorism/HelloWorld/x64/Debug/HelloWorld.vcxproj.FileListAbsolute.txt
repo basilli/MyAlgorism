@@ -1,0 +1,2 @@
+D:\Project\MyAlgorism\MyAlgorism\x64\Debug\HelloWorld.exe.lastcodeanalysissucceeded
+D:\Project\MyAlgorism\MyAlgorism\HelloWorld\x64\Debug\NativeCodeAnalysis.read.1.tlog
